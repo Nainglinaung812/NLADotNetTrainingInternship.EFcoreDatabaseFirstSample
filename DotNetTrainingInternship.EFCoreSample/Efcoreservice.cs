@@ -18,7 +18,7 @@ public class Efcoreservice
     }
     public void Edit()
     {
-        var item = _db.Students.FirstOrDefault(s => s.StudentId == 1);
+        var item = _db.Students.FirstOrDefault(s => s.StudentId == 2);
         if (item is null)
         {
             return;
@@ -28,6 +28,20 @@ public class Efcoreservice
         item.Age = 29;
         int result = _db.SaveChanges();
         string response = result > 0 ? "Edit Success" : "Edit Failed";
+        Console.WriteLine(response);
+    }
+    public void Update()
+    {
+        var item = _db.Students.FirstOrDefault(s => s.StudentId == 6);
+        if (item is null)
+        {
+            return;
+        }
+        item.Gender = "Male";
+        item.StudentName = "Phyo Pyae";
+        item.Age = 29;
+        int result = _db.SaveChanges();
+        string response = result > 0 ? "Update Success" : "Update Failed";
         Console.WriteLine(response);
     }
     public void Create()
@@ -46,8 +60,8 @@ public class Efcoreservice
     }
     public void Delete()
     {
-        Student item = _db.Students.FirstOrDefault(x => x.StudentId == 1);
-        if(item is null)
+        Student item = _db.Students.FirstOrDefault(x => x.StudentId == 9);
+        if (item is null)
         {
             return;
         }

@@ -312,3 +312,4 @@
 /Users/nainglinnaung/Desktop/DotNetTrainingInternship.EFcoreDatabaseFirstSample/DotNetTrainingInternship.EFCoreSample/obj/Debug/net10.0/DotNetTrainingInternship.EFCoreSample.pdb
 /Users/nainglinnaung/Desktop/DotNetTrainingInternship.EFcoreDatabaseFirstSample/DotNetTrainingInternship.EFCoreSample/obj/Debug/net10.0/DotNetTrainingInternship.EFCoreSample.genruntimeconfig.cache
 /Users/nainglinnaung/Desktop/DotNetTrainingInternship.EFcoreDatabaseFirstSample/DotNetTrainingInternship.EFCoreSample/obj/Debug/net10.0/ref/DotNetTrainingInternship.EFCoreSample.dll
+/Users/nainglinnaung/Desktop/DotNetTrainingInternship.EFcoreDatabaseFirstSample/DotNetTrainingInternship.EFCoreSample/obj/Debug/net10.0/DotNetTrainingInternship.EFCoreSample.sourcelink.json

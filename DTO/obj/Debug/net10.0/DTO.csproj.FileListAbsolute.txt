@@ -26,3 +26,4 @@
 /Users/nainglinnaung/Desktop/DotNetTrainingInternship.EFcoreDatabaseFirstSample/DTO/obj/Debug/net10.0/DTO.pdb
 /Users/nainglinnaung/Desktop/DotNetTrainingInternship.EFcoreDatabaseFirstSample/DTO/obj/Debug/net10.0/DTO.genruntimeconfig.cache
 /Users/nainglinnaung/Desktop/DotNetTrainingInternship.EFcoreDatabaseFirstSample/DTO/obj/Debug/net10.0/ref/DTO.dll
+/Users/nainglinnaung/Desktop/DotNetTrainingInternship.EFcoreDatabaseFirstSample/DTO/obj/Debug/net10.0/DTO.sourcelink.json
